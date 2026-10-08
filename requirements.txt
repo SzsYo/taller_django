@@ -13,3 +13,4 @@ zope.hookable==8.3
 zope.interface==8.6
 zope.lifecycleevent==6.0
 zope.proxy==7.3
+gunicorn==21.2.0
